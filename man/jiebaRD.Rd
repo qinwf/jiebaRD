@@ -16,6 +16,9 @@ You can use custom dictionary to be included in the jiebaR default dictionary.
 jiebaR can also identify new words, but adding your own new words will ensure a higher
 accuracy.
 }
+\examples{
+library("jiebaRD")
+}
 \author{
 Qin Wenfeng <\url{http://qinwenfeng.com}>
 }
