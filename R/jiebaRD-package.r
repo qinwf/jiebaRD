@@ -1,7 +1,7 @@
 #' A package for Chinese text segmentation
 #'
 #' jiebaR is a package for Chinese text segmentation, keyword extraction
-#' and speech tagging. This package provide the data files required by jiebaR.
+#' and speech tagging. This package provides the data files required by jiebaR.
 #' jiebaR supports four types of segmentation mode: Maximum Probability, Hidden Markov Model,
 #' Query Segment and Mix Segment.
 #'
